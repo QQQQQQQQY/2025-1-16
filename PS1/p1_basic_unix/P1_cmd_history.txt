@@ -1,0 +1,175 @@
+    1  git init
+    2  ls
+    3  git config --global user.name XUANS
+    4  git config --global user.email qianhao@ucsb.edu
+    5  git checkout -b main
+    6  git remote add origin https://github.com/QQQQQQQQY/2025-1-16.git
+    7  git add .
+    8  git add .
+    9  cd /root/Desktop/host
+   10  git add .
+   11  git checkout -b main
+   12  remote add origin https://github.com/QQQQQQQQY/2025-1-16.git
+   13  git remote add origin https://github.com/QQQQQQQQY/2025-1-16.git
+   14  git init
+   15  git add .
+   16  git commit -m "init"
+   17  echo "oyay" >> 1.txt
+   18  git add .
+   19  git commit -m "init"
+   20  git push -u origin main
+   21  git add remote origin https://github.com/QQQQQQQQY/2025-1-16.git
+   22  git remote origin https://github.com/QQQQQQQQY/2025-1-16.git
+   23  git remote -u origin https://github.com/QQQQQQQQY/2025-1-16.git
+   24  git remote add origin https://github.com/QQQQQQQQY/2025-1-16.git
+   25  git push -u origin main
+   26  git remote add origin https://github.com/QQQQQQQQY/2025-1-16.git
+   27  git branch -M main
+   28  git push -u origin main
+   29  ls
+   30  mkdir PS1
+   31  ls
+   32  cd PS1
+   33  echo hello world
+   34  echo hello world > hello_world.txt
+   35  git push -u origin main
+   36  fl
+   37  lf
+   38  ls
+   39  git init
+   40  git remote add origin https://github.com/QQQQQQQQY/2025-1-16.git
+   41  lf
+   42  ls
+   43  git config --global --list
+   44  git remote -v
+   45  ls -a
+   46  pwd
+   47  mkdir --help
+   48  ls --help
+   49  cd ..
+   50  ls
+   51  ls -a
+   52  cd C:\129L
+   53  cd \C:\129L
+   54  cd C:\
+   55  git init
+   56  cd /root/Desktop/host
+   57  ls
+   58  cd PS1/
+   59  ls
+   60  mkdir /p1_basic_unix
+   61  ls
+   62  cd /p1_basic_unix/
+   63  mkdir -p ~/p1_basic_unix/test/basic
+   64  tree ~/p1_basic_unix
+   65  sudo apt install tree
+   66  ls -R ~/p1_basic_unix
+   67  ls
+   68  cd /p1_basic_unix
+   69  ls
+   70  echo  > test_1.txt
+   71  ls
+   72  cat test_1.txt
+   73  cd /p1_basic_unix/test/basic
+   74  cd  ~/p1_basic_unix/test/basic
+   75  ls
+   76  mkdir -p /p1_basic_unix/test/basic
+   77  cd /p1_basic_unix/test/basic
+   78  ls
+   79  cd /p1_basic_unix/ 
+   80  ls
+   81  mv test_1.txt /p1_basic_unix/test/basic
+   82  cd /p1_basic_unix/test/basic
+   83  ls
+   84  cd PS1
+   85  cd /PS1
+   86  cd /root/Desktop/host/PS1
+   87  cd PS1/
+   88  mv /p1_basic_unix/test/basic /root/Desktop/host/PS1
+   89  ls
+   90  mv basic /p1_basic_unix/test
+   91  cd /p1_basic_unix
+   92  cd ..
+   93  ls
+   94  mv p1_basic_unix /root/Desktop/host/PS1
+   95  cd /root/Desktop/host/PS1
+   96  ls
+   97  echo > test_2.txt
+   98  ls
+   99  mv test_2.txt /root/Desktop/host/PS1/p1_basic_unix/test/basic
+  100  cd /root/Desktop/host/PS1/p1_basic_unix/test/basic
+  101  ls
+  102  echo > test_3.txt
+  103  ls
+  104  echo Qianhao Yang 1/18/2025 > test_1.txt
+  105  echo > test_1.txt
+  106  cat test_1.txt
+  107  cd /root/Desktop/host/PS1/p1_basic_unix
+  108  echo Qianhao Yang 1/18/2025 > test_1.txt
+  109  cat test_1.txt
+  110  echo ls -l test_2.txt
+  111  cat test_2.txt
+  112  rm test_2.txt
+  113  ls
+  114  rm test_1.txt
+  115  echo Qianhao Yang 1/18/2025 > test/basic/test_1.txt
+  116  cat test/basic/test_1.txt
+  117  ls -l test_1.txt
+  118  ls -l test/basic/test_1.txt
+  119  ls -l test/basic/test_1.txt > test/basic/test_2.txt
+  120  chomd +x test/basic/test_1.txt
+  121  chmod +x test/basic/test_1.txt
+  122  ls -l test/basic/test_1.txt >> test/basic/test_2.txt
+  123  cat test/basic/test_2.txt
+  124  wget https://zhwangs.github.io/UCSB-comp-phys/problemset/P1 B.tar.gz
+  125  wget https://zhwangs.github.io/UCSB-comp-phys/problemset/P1_B.tar.gz
+  126  wget https://zhwangs.github.io/UCSB-comp-phys/data/problem_set/P1_B.tar.gz
+  127  sha256sum P1_B.tar.gz
+  128  tar -xzvf P1_B.tar.gz
+  129  mv /root/Desktop/host/PS1/p1_basic_unix/P1_B/example.sh /root/Desktop/host/PS1/p1_basic_unix
+  130  mv P1_B/example_1.txt P1_B/demo_1.txt
+  131  ls
+  132  ls P1_B
+  133  mv P1_B/example1.txt P1_B/demo1.txt
+  134  mv P1_B/demo1.txt P1_B/demo_1.txt
+  135  mv P1_B/example2.txt P1_B/demo_2.txt
+  136  mkdir -p src/graphic
+  137  cd src
+  138  mkdir exe
+  139  mkdir utilities
+  140  cd /root/Desktop/host/PS1/p1_basic_unix/test
+  141  mkdir composite
+  142  cd ..
+  143  mkdir -p cache/data/table
+  144  cd cache/data
+  145  mkdir directory_list
+  146  mkdir metadata
+  147  mv metadata /root/Desktop/host/PS1/p1_basic_unix/cache
+  148  cd /root/Desktop/host/PS1/p1_basic_unix/cache
+  149  mkdir images
+  150  mkdir history
+  151  cd p1_basic_unix
+  152  cd /p1_basic_unix
+  153  cd /root/Desktop/host/PS1/p1_basic_unix
+  154  mv P1_B/demo_1.txt src/exe
+  155  mv P1_B/demo_2.txt cache/data/tables 
+  156  mv cache/data/tables.txt P1_B/demo_2.txt
+  157  mv cache/data/table cache/data/tables
+  158  mv P1_B/demo_2.txt cache/data/tables
+  159  rm P1_B
+  160  rm -r P1_B
+  161  ln -s cache/data/tables/P1_B/demo_2.txt demo_link
+  162  rm demo_link
+  163  ln -s src/exe/demo_1.txt demo_link
+  164  alias ll='ls -l'
+  165  grep "statistics" demo_link > src/utilities/grep_stat_demo1.txt
+  166  grep -r "statistics" . > cache/images/grep_stat_all.txt
+  167  grep -r "statistics" /p1_basic_unix > cache/images/grep_stat_all.txt
+  168  grep -r "statistics" . | > cache/images/grep_stat_all.txt
+  169  grep -r "statistics" .
+  170  grep -r "statistics" . | tee cache/images/grep_stat_all.txt
+  171  find -r -type f -name "*.txt" > test/basic/test_3.txt
+  172  find ./ -type f -name "*.txt" > test/basic/test_3.txt
+  173  grep "statistics" find ./ -type f -name "*.txt" 
+  174  find . -type f -name "*.txt" -exec grep "statistics" {} +
+  175  history > P1_cmd_history.txt
