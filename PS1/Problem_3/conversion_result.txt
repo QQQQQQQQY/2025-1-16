@@ -1,0 +1,3 @@
+Decimal: 1236
+Hexadecimal: 4D4
+Binary: 10011010100

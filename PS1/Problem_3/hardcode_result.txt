@@ -1,0 +1,27 @@
+Hard-coded conversions from Table 1:
+Decimal | Hexadecimal | Binary
+--------|-------------|--------
+1       | 1           | 0001
+2       | 2           | 0010
+3       | 3           | 0011
+4       | 4           | 0100
+5       | 5           | 0101
+6       | 6           | 0110
+7       | 7           | 0111
+8       | 8           | 1000
+9       | 9           | 1001
+10      | A           | 1010
+11      | B           | 1011
+12      | C           | 1100
+13      | D           | 1101
+14      | E           | 1110
+15      | F           | 1111
+16      | 10          | 00010000
+26      | 1A          | 00011010
+31      | 1F          | 00011111
+32      | 20          | 00100000
+
+Hard-coded decimal to hexadecimal conversion (Table 2):
+Decimal: 125064
+Hexadecimal: 1E888
+Binary (division by 2): 111110100010001000
